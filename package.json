@@ -1,0 +1,14 @@
+{
+  "name": "aws-cloudwatch2jsontcp",
+  "version": "0.0.1",
+  "description": "Send cloudwatch logs as json to tcp port",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^1.0"
+  }
+}
