@@ -6,6 +6,7 @@
 
 const net = require('net');
 
+/*
 var msg = {
   "SourceModuleName": "nodejs",
   "SourceModuleType": "im_tcp",
@@ -15,9 +16,7 @@ var msg = {
   "EventTime": "2017-06-06 21:32:40",
   "EventReceivedTime": "2017-06-06 21:32:40"
 };
-
-
-/**/
+*/
 
 var AWS = require('aws-sdk'),
     http = require('http'),

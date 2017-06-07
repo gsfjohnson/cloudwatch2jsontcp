@@ -9,6 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "aws-sdk": "^1.0"
+    "aws-sdk": "^2.2.25",
+    "zlib": "^1.0.5"
   }
 }
